@@ -14,10 +14,10 @@
     "extra": {
 
         "expose": [
+			"bootstrap",
             "css",
             "images",
-            "javascript",
-            "webfonts"
+            "javascript"
         ]
     }
 }
