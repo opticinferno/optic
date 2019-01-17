@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,gBAAiB,CAChB,WAAW,CAAE,IAAI,CACjB,aAAa,CAAE,IAAI,CAGpB,yBAA0B,CACzB,UAAU,CAAE,MAAM,CAGnB,kBAAmB,CAClB,SAAS,CAAE,GAAG,CAGf,yBAA0B,CACzB,WAAW,CAAE,IAAI,CACjB,aAAa,CAAE,IAAI,CACnB,YAAY,CAAE,GAAG",
+"sources": ["../../../vendor/composer/5150f610/silverstripe-silverstripe-framework-ddff7c5/scss/SubmittedFormReportField.scss"],
+"names": [],
+"file": "SubmittedFormReportField.css"
+}

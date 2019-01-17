@@ -1,0 +1,23 @@
+{
+    "name": "inferno/optic",
+    "description": "optic inferno theme",
+    "type": "silverstripe-theme",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Gordon Skinner"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": ">=3.5"
+    },
+    "extra": {
+
+        "expose": [
+            "css",
+            "images",
+            "javascript",
+            "webfonts"
+        ]
+    }
+}

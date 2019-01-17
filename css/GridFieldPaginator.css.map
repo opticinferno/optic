@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,wBAAyB,CACxB,UAAU,CAAE,MAAM,CAClB,cAAc,CAAE,IAAI,CAErB,uCAAuC,CACtC,UAAU,CAAE,gDAAgD,CAAE,YAAY,CAAE,IAAI",
+"sources": ["../../../vendor/composer/5150f610/silverstripe-silverstripe-framework-ddff7c5/scss/GridFieldPaginator.scss"],
+"names": [],
+"file": "GridFieldPaginator.css"
+}

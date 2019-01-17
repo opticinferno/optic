@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,+BAAgC,CAC/B,gBAAgB,CAAE,OAAO,CACzB,MAAM,CAAE,aAAa,CACrB,KAAK,CAAE,IAAI,CACX,OAAO,CAAE,GAAG,CACZ,eAAe,CAAE,SAAS",
+"sources": ["../../../vendor/composer/5150f610/silverstripe-silverstripe-framework-ddff7c5/admin/scss/editor.scss"],
+"names": [],
+"file": "editor.css"
+}
