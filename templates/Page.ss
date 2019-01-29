@@ -32,6 +32,7 @@
   </head>
 
 <body>
+<link rel="stylesheet" type="text/css" href="{$AbsoluteBaseURL}themes/optic/css/optic.css" />
 	<script src="themes/optic/javascript/jquery-3.2.1.slim.min.js"></script>
 	<!-- CHECK IF USER IS USING OLD VERSION OF IE -->
 	<script type="text/javascript">
