@@ -21,14 +21,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300 |Roboto|Fjalla+One" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-      <script type='text/javascript'>
-          (function (d, t) {
-              var bh = d.createElement(t), s = d.getElementsByTagName(t)[0];
-              bh.type = 'text/javascript';
-              bh.src = 'https://www.bugherd.com/sidebarv2.js?apikey=jqlc15rbupxd2s42xizx0q';
-              s.parentNode.insertBefore(bh, s);
-          })(document, 'script');
-      </script>
+
   </head>
 
 <body>
