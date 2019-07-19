@@ -10,7 +10,8 @@
     ],
     "require": {
         "silverstripe/framework": "^4.1",
-        "opticinferno/infernonavigation": "*"
+        "opticinferno/infernonavigation": "*",
+        "opticinferno/infernoslider": "*"
     },
 	"minimum-stability": "dev",
     "extra": {
