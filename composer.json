@@ -9,7 +9,8 @@
         }
     ],
     "require": {
-        "silverstripe/framework": "^4.1"
+        "silverstripe/framework": "^4.1",
+        "opticinferno/infernonavigation": "*"
     },
 	"minimum-stability": "dev",
     "extra": {
