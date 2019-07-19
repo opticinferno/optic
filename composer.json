@@ -11,7 +11,8 @@
     "require": {
         "silverstripe/framework": "^4.1",
         "opticinferno/infernonavigation": "*",
-        "opticinferno/infernoslider": "*"
+        "opticinferno/infernoslider": "*",
+        "opticinferno/infernoconfig": "*"
     },
 	"minimum-stability": "dev",
     "extra": {
