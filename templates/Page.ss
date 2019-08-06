@@ -13,13 +13,14 @@
     <!--<link src="obconfig/fonts/icomoon/style.css">-->
     <link rel="shortcut icon" href="{$ThemeDir}/icons/favicon.ico">
     <link rel="apple-touch-icon" href="{$ThemeDir}/icons/apple-touch-icon.png">
-    <link rel="stylesheet" href="{$ThemeDir}/font-awesome/footerstyle.css" >
-	<link rel="stylesheet" href="{$ThemeDir}/font-awesome/style.css" >
-    <link rel="stylesheet" href="{$ThemeDir}/font-awesome/css/font-awesome.min.css">
     <link href="{$ThemeDir}/font-awesome/style.css" >
 	<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash&amp;subset=latin-ext" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300 |Roboto|Fjalla+One" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	  <script type="text/javascript" src="themes/optic/javascript/jquery-1.11.13.min.js"></script>
+      <script type="text/javascript" src="themes/optic/javascript/popper.min.js"></script>
+	  <script type="text/javascript" src="themes/optic/javascript/bootstrap.min.js"></script>
+      <script type="text/javascript" src="themes/optic/javascript/carousel.js"></script>
 
 
   </head>
@@ -44,7 +45,7 @@
 
    	$Layout
 	</div>
-
+		<% include InfernoGallery/Gallery/GalleryImages %>
         <% include InfernoConfig/Footer/Footer %>
 
 	</div>

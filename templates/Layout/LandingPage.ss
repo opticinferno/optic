@@ -1,12 +1,11 @@
 
        	<div class="MyContent">
        		
-        	$ElementArea
-				
+        	$ElementalArea
+
         		
         	
         	<div class="container">
-			<!--<% include TestimonialSlider %>-->
         	$Form
            
             </div>
