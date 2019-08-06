@@ -3,6 +3,8 @@
     "description": "optic inferno theme",
     "type": "silverstripe-theme",
     "license": "BSD-3-Clause",
+    "keywords": ["opticinferno"
+    ],
     "authors": [
         {
             "name": "Gordon Skinner"
